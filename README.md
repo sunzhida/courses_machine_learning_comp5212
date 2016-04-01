@@ -1,9 +1,8 @@
 # courses_machine_learning_comp5212
 
 Basic concepts
--3/12/2016
 
-instance, sample
+instance 示例, sample 样本
 
 attribute, feature
 
